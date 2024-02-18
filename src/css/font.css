@@ -1,0 +1,39 @@
+html {
+  font-size: 62.5%;
+}
+
+body,
+button {
+  font-family: peyda;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+p {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: peyda;
+  font-weight: 400;
+  src: url(/assets/fonts/PeydaWebFaNum-Regular.woff2);
+}
+
+@font-face {
+    font-family: peyda;
+    font-weight: 500;
+    src: url(/assets/fonts/PeydaWebFaNum-Medium.woff2);
+  }
+
+@font-face {
+  font-family: peyda;
+  font-weight: bold;
+  src: url(/assets/fonts/PeydaWebFaNum-Black.woff2);
+}
